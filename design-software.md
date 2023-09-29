@@ -1,0 +1,20 @@
+- O que é design de software?
+  -
+    - Design de software é a metodologia de projetar o produto a ser criado, desde a idealização a implementação, tendo como foco atender à todas as metas e gerar o planejamento mais otimizado possível.
+- Quais são as atividades necessárias para projetar um software
+  - 
+    - Coleta de objetivos
+    - Delimitação de escopo
+    - Expecificação de requisitos
+    - Análise de tecnológias disponíveis
+    - Definição de padrões de construção
+    - Definição das regras de negócio
+    - Implementação de protótipos
+    - Construção de um mvp
+    - Implantação de um servidor
+    - Testes em grupos fechados
+    - liberação do produto ao público
+
+- Você tinha conhecimento destas atividades e os entregáveis correspondentes?
+  - 
+    - não
